@@ -5,7 +5,7 @@
 - Meu nome é Lucas Cirilo da Silva;
 - Eu tenho 23 anos e atualmente curso Graduação em Redes no IFRN Campus (Natal-Central);
 - Estou expandindo meus conhecimentos em Redes de Computadores e seus serviços;
-- Além disso, estudo programação e trabalho com Tecnologia da Informação.
+- Além disso, estudo programação e trabalho com criação de sites.
 
   ###
 
@@ -30,6 +30,8 @@
 
 <h2 align="left">📚Areas de Estudo/Domínio:📚</h2>
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -40,8 +42,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
 
