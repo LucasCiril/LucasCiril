@@ -4,8 +4,8 @@
 
 - Meu nome é Lucas Cirilo da Silva;
 - Eu tenho 23 anos e atualmente curso Graduação em Redes no IFRN Campus (Natal-Central);
-- Estou expandindo meus conhecimentos em Redes de Computadores e seus serviços;
-- Além disso, estudo programação e trabalho com criação de sites.
+- Procuro cada vez mais expandir meus conhecimentos na área e sou ávido por superar os meus limites;
+- Além disso, estudo programação e desejo trabalhar com Tecnologia da Informação.
 
   ###
 
